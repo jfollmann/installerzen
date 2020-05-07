@@ -36,13 +36,13 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/jfollmann/ubuntu-setup.git"
+    "url": "https://github.com/jfollmann/installerzen"
   },
   "keywords": [],
   "author": "Jefferson Follmann <jeff.follmann@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jfollmann/ubuntu-setup/issues"
+    "url": "https://github.com/jfollmann/installerzen/issues"
   },
-  "homepage": "https://github.com/jfollmann/ubuntu-setup"
+  "homepage": "https://github.com/jfollmann/installerzen"
 }
