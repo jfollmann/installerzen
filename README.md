@@ -17,10 +17,8 @@ Usage: installerzen [options]
 Options:
   -t, --interactive               Interactive mode (default: false)
   -l, --list                      List applications
-  -g, --generate <appsToInstall>  Install applications - separate by comma and
-                                  without spaces. (eg: -f wget,curl)
-  -f, --filename <filename>       File name to generate script (default:
-                                  "install.sh")
+  -g, --generate <appsToInstall>  Install applications - separate by comma and without spaces. (eg: -f wget,curl)
+  -f, --filename <filename>       File name to generate script (default: "install.sh")
   -v, --version                   Application version
   -h, --help                      display help for command
 ```
@@ -34,6 +32,7 @@ If your programs are not supported, it would be great if you sent me a pull requ
 ## Supported apps (by now)
 
 ```
+.
 ├── atom
 ├── authy
 ├── brackets
