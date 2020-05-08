@@ -31,6 +31,7 @@ Options:
 
 If your programs are not supported, it would be great if you sent me a pull request with implementation.
 
+```
 ## Supported apps (by now)
   ├── atom
   ├── authy
@@ -67,6 +68,7 @@ If your programs are not supported, it would be great if you sent me a pull requ
   ├── vscode
   ├── wget
   └── yarn
+```
 
 ## Show your support
 
