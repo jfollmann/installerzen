@@ -57,7 +57,7 @@ If your programs are not supported, it would be great if you sent me a pull requ
 ├── peek
 ├── postgresql
 ├── postman
-├── redis-desktop-maager
+├── redis-desktop-manager
 ├── robo3t
 ├── spotify
 ├── sublime
