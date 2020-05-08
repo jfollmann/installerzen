@@ -1,5 +1,5 @@
 # Welcome to installerzen 👑
-With `installerzen` you can perfom the installation of many of your applications in just one simple and easy-to-use program!
+With `installerzen` you can perfom the installation of many of main applications in just one simple and easy-to-use program!
 
 > Install applications on linux with one command in less than 30 seconds..
 
@@ -30,6 +30,43 @@ Options:
 ## Contribute
 
 If your programs are not supported, it would be great if you sent me a pull request with implementation.
+
+## Supported apps (by now)
+  ├── atom
+  ├── authy
+  ├── brackets
+  ├── brave
+  ├── chrome
+  ├── chromium
+  ├── ctop
+  ├── curl
+  ├── dbeaver
+  ├── docker-compose
+  ├── docker
+  ├── dropbox
+  ├── fonts-firacode
+  ├── fonts-hack
+  ├── git
+  ├── googledriver
+  ├── helm
+  ├── insomnia
+  ├── nvm
+  ├── ohmyzsh
+  ├── peek
+  ├── postgresql
+  ├── postman
+  ├── redis-desktop-maager
+  ├── robo3t
+  ├── spotify
+  ├── sublime
+  ├── terminator
+  ├── tmux
+  ├── tree
+  ├── vim
+  ├── vlc
+  ├── vscode
+  ├── wget
+  └── yarn
 
 ## Show your support
 
