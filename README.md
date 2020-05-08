@@ -34,41 +34,41 @@ If your programs are not supported, it would be great if you sent me a pull requ
 ## Supported apps (by now)
 
 ```
-  ├── atom
-  ├── authy
-  ├── brackets
-  ├── brave
-  ├── chrome
-  ├── chromium
-  ├── ctop
-  ├── curl
-  ├── dbeaver
-  ├── docker-compose
-  ├── docker
-  ├── dropbox
-  ├── fonts-firacode
-  ├── fonts-hack
-  ├── git
-  ├── googledriver
-  ├── helm
-  ├── insomnia
-  ├── nvm
-  ├── ohmyzsh
-  ├── peek
-  ├── postgresql
-  ├── postman
-  ├── redis-desktop-maager
-  ├── robo3t
-  ├── spotify
-  ├── sublime
-  ├── terminator
-  ├── tmux
-  ├── tree
-  ├── vim
-  ├── vlc
-  ├── vscode
-  ├── wget
-  └── yarn
+├── atom
+├── authy
+├── brackets
+├── brave
+├── chrome
+├── chromium
+├── ctop
+├── curl
+├── dbeaver
+├── docker-compose
+├── docker
+├── dropbox
+├── fonts-firacode
+├── fonts-hack
+├── git
+├── googledriver
+├── helm
+├── insomnia
+├── nvm
+├── ohmyzsh
+├── peek
+├── postgresql
+├── postman
+├── redis-desktop-maager
+├── robo3t
+├── spotify
+├── sublime
+├── terminator
+├── tmux
+├── tree
+├── vim
+├── vlc
+├── vscode
+├── wget
+└── yarn
 ```
 
 ## Show your support
