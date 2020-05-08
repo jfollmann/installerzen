@@ -1,5 +1,5 @@
 # Welcome to installerzen 👑
-With `installerzen` you can perfom the installation of many of your application in just one simple and easy to use program!
+With `installerzen` you can perfom the installation of many of your applications in just one simple and easy-to-use program!
 
 > Install applications on linux with one command in less than 30 seconds..
 
