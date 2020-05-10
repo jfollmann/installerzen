@@ -35,6 +35,7 @@ If your programs are not supported, it would be great if you sent me a pull requ
 .
 ├── atom
 ├── authy
+├── beekeeperstudio
 ├── brackets
 ├── brave
 ├── chrome
