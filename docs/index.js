@@ -1,9 +1,15 @@
 const path = require('path');
 const markdownMagic = require('markdown-magic');
 
+const dirTree = require('markdown-magic-directory-tree');
+const dependencyTable = require('markdown-magic-dependency-table');
+const versionBadge = require('markdown-magic-version-badge');
+
 const config = {
   transforms: {
-    DIRTREE: require('./dtree.js'),
+    dirTree,
+    dependencyTable,
+    versionBadge
   }
 }
 
