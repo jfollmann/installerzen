@@ -2,7 +2,7 @@ var gulp = require("gulp");
 var del = require('del');
 var run = require('gulp-run');
 
-gulp.task('generate-dtree', function () {
+gulp.task('generate-dynamic-readme', function () {
   return run('node docs/index.js', { verbosity: 0 }).exec();
 })
 
@@ -20,5 +20,5 @@ gulp.task('shellScriptFiles', function () {
     .pipe(gulp.dest('./dist/src/apps/sh'));
 });
 
-gulp.task('gen-docs', gulp.series('generate-dtree', 'copy-readme'));
+gulp.task('gen-docs', gulp.series('generate-dynamic-readme', 'copy-readme'));
 gulp.task('default', gulp.parallel('clean', 'gen-docs', 'shellScriptFiles'));
