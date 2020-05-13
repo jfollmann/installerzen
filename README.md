@@ -1,6 +1,6 @@
 # Welcome to installerzen 👑
 <!-- AUTO-GENERATED-CONTENT:START (versionBadge:color=blue) -->
-[![npm](https://img.shields.io/badge/npm-v1.0.11-blue.svg)](https://www.npmjs.com/package/installerzen)
+[![npm](https://img.shields.io/badge/npm-v1.0.12-blue.svg)](https://www.npmjs.com/package/installerzen)
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 With `installerzen` you can perfom the installation of many of main applications in just one simple and easy-to-use program!
