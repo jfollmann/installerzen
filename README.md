@@ -31,45 +31,47 @@ If your programs are not supported, it would be great if you sent me a pull requ
 
 ## Supported apps (by now)
 
+<!-- AUTO-GENERATED-CONTENT:START (DIRTREE:dir=./src/apps/sh&depth=1) -->
 ```
-.
-├── atom
-├── authy
-├── beekeeperstudio
-├── brackets
-├── brave
-├── chrome
-├── chromium
-├── ctop
-├── curl
-├── dbeaver
-├── docker-compose
-├── docker
-├── dropbox
-├── fonts-firacode
-├── fonts-hack
-├── git
-├── googledriver
-├── helm
-├── insomnia
-├── nvm
-├── ohmyzsh
-├── peek
-├── postgresql
-├── postman
-├── redis-desktop-manager
-├── robo3t
-├── spotify
-├── sublime
-├── terminator
-├── tmux
-├── tree
-├── vim
-├── vlc
-├── vscode
-├── wget
-└── yarn
+sh/
+├── atom.sh
+├── authy.sh
+├── beekeeperstudio.sh
+├── brackets.sh
+├── brave.sh
+├── chrome.sh
+├── chromium.sh
+├── ctop.sh
+├── curl.sh
+├── dbeaver.sh
+├── docker-compose.sh
+├── docker.sh
+├── dropbox.sh
+├── fonts-firacode.sh
+├── fonts-hack.sh
+├── git.sh
+├── googledriver.sh
+├── helm.sh
+├── insomnia.sh
+├── nvm.sh
+├── ohmyzsh.sh
+├── peek.sh
+├── postgresql.sh
+├── postman.sh
+├── redis-desktop-manager.sh
+├── robo3t.sh
+├── spotify.sh
+├── sublime.sh
+├── terminator.sh
+├── tmux.sh
+├── tree.sh
+├── vim.sh
+├── vlc.sh
+├── vscode.sh
+├── wget.sh
+└── yarn.sh
 ```
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Show your support
 

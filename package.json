@@ -1,6 +1,6 @@
 {
   "name": "installerzen",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "Install applications on linux with one command in less than 30 seconds.",
   "main": "src/index.js",
   "bin": "./src/index.js",
@@ -8,11 +8,7 @@
   "scripts": {
     "dev": "npm run build && node dist/src/index.js",
     "start": "node dist/src/index.js",
-    "build": "tsc -p . && gulp",
-    "fix": "gts fix",
-    "check": "gts check",
-    "clean": "gts clean",
-    "publish2": "npm run build && npm publish ./dist --access public"
+    "build": "tsc -p . && gulp"
   },
   "devDependencies": {
     "@types/chalk": "^2.2.0",
@@ -23,6 +19,9 @@
     "del": "^5.1.0",
     "gts": "^2.0.0",
     "gulp": "^4.0.2",
+    "gulp-run": "^1.7.1",
+    "markdown-magic": "^1.0.0",
+    "markdown-magic-directory-tree": "^1.2.3",
     "nodemon": "^2.0.3",
     "ts-node": "^8.9.0",
     "typescript": "~3.8.0"
