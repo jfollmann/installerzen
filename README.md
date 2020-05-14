@@ -1,6 +1,7 @@
-# Welcome to installerzen 👑
+# Welcome to installerzen CLI 👑
+
 <!-- AUTO-GENERATED-CONTENT:START (versionBadge:color=blue) -->
-[![npm](https://img.shields.io/badge/npm-v1.0.13-blue.svg)](https://www.npmjs.com/package/installerzen)
+[![npm](https://img.shields.io/badge/npm-v1.0.14-blue.svg)](https://www.npmjs.com/package/installerzen)
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 With `installerzen` you can perfom the installation of many of main applications in just one simple and easy-to-use program!
@@ -31,8 +32,10 @@ Usage: installerzen [options]
 Options:
   -t, --interactive               Interactive mode (default: false)
   -l, --list                      List applications
-  -g, --generate <appsToInstall>  Install applications - separate by comma and without spaces. (eg: -f wget,curl)
-  -f, --filename <filename>       File name to generate script (default: "install.sh")
+  -g, --generate <appsToInstall>  Install applications - separate by comma and
+                                  without spaces. (eg: -f wget,curl)
+  -f, --filename <filename>       File name to generate script (default:
+                                  "install.sh")
   -v, --version                   Application version
   -h, --help                      display help for command
 ```
@@ -58,9 +61,12 @@ sh/
 ├── docker-compose.sh
 ├── docker.sh
 ├── dropbox.sh
+├── firefox-dev.sh
 ├── fonts-firacode.sh
 ├── fonts-hack.sh
+├── gimp.sh
 ├── git.sh
+├── go.sh
 ├── googledriver.sh
 ├── helm.sh
 ├── insomnia.sh
@@ -70,6 +76,7 @@ sh/
 ├── postgresql.sh
 ├── postman.sh
 ├── redis-desktop-manager.sh
+├── remmina.sh
 ├── robo3t.sh
 ├── spotify.sh
 ├── sublime.sh

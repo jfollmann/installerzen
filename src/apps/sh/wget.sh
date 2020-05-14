@@ -1,1 +1,1 @@
-sudo apt install -y wget;
+sudo apt install -y wget

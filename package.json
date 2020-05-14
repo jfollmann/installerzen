@@ -1,6 +1,6 @@
 {
   "name": "installerzen",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Install applications on linux with one command in less than 30 seconds.",
   "main": "src/index.js",
   "bin": "./src/index.js",

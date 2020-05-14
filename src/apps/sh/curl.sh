@@ -1,1 +1,1 @@
-sudo apt install -y curl;
+sudo apt install -y curl
