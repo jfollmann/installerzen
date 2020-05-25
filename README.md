@@ -1,7 +1,7 @@
 # Welcome to installerzen CLI 👑
 
 <!-- AUTO-GENERATED-CONTENT:START (versionBadge:color=blue) -->
-[![npm](https://img.shields.io/badge/npm-v1.0.14-blue.svg)](https://www.npmjs.com/package/installerzen)
+[![npm](https://img.shields.io/badge/npm-v1.0.15-blue.svg)](https://www.npmjs.com/package/installerzen)
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 With `installerzen` you can perfom the installation of many of main applications in just one simple and easy-to-use program!
@@ -46,31 +46,45 @@ Options:
 <!-- AUTO-GENERATED-CONTENT:START (dirTree:dir=./src/apps/sh&depth=1) -->
 ```
 sh/
+├── 7zip.sh
 ├── atom.sh
 ├── authy.sh
 ├── aws-cli.sh
 ├── az-cli.sh
 ├── beekeeperstudio.sh
+├── beyond-compare.sh
+├── bitwarden.sh
 ├── brackets.sh
 ├── brave.sh
+├── cheese.sh
 ├── chrome.sh
 ├── chromium.sh
 ├── ctop.sh
 ├── curl.sh
 ├── dbeaver.sh
+├── discord.sh
 ├── docker-compose.sh
 ├── docker.sh
 ├── dropbox.sh
+├── figma.sh
 ├── firefox-dev.sh
 ├── fonts-firacode.sh
 ├── fonts-hack.sh
 ├── gimp.sh
+├── git-lfs.sh
 ├── git.sh
+├── gitkraken.sh
 ├── go.sh
 ├── googledriver.sh
 ├── helm.sh
+├── heroku-cli.sh
+├── hub-cli.sh
 ├── insomnia.sh
+├── libre-office.sh
+├── notepad++.sh
+├── notion.sh
 ├── nvm.sh
+├── obs-studio.sh
 ├── ohmyzsh.sh
 ├── peek.sh
 ├── postgresql.sh
@@ -78,11 +92,15 @@ sh/
 ├── redis-desktop-manager.sh
 ├── remmina.sh
 ├── robo3t.sh
+├── skype.sh
+├── slack.sh
 ├── spotify.sh
 ├── sublime.sh
 ├── terminator.sh
 ├── tmux.sh
+├── transmission.sh
 ├── tree.sh
+├── twitch.sh
 ├── vim.sh
 ├── vlc.sh
 ├── vscode.sh
