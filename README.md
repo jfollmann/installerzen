@@ -3,6 +3,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (versionBadge:color=blue) -->
 [![npm](https://img.shields.io/badge/npm-v1.0.15-blue.svg)](https://www.npmjs.com/package/installerzen)
 <!-- AUTO-GENERATED-CONTENT:END -->
+![CI](https://github.com/jfollmann/installerzen/workflows/CI/badge.svg)
 
 With `installerzen` you can perfom the installation of many of main applications in just one simple and easy-to-use program!
 
@@ -116,10 +117,10 @@ If your programs are not supported, it would be great if you sent me a pull requ
 <!-- AUTO-GENERATED-CONTENT:START (dependencyTable:dev=false&production=true) -->
 | **Dependency** | **Description** | **Version** | **License** | **Type** |
 | -------------- | --------------- | ----------- | ----------- | -------- |
- | [chalk@^4.0.0](https://github.com/chalk/chalk#readme) | Terminal string styling done right | 4.0.0 | MIT | production | 
- | [commander@^5.1.0](https://github.com/tj/commander.js#readme) | the complete solution for node.js command-line programs | 5.1.0 | MIT | production | 
- | [figlet@^1.3.0](https://github.com/patorjk/figlet.js#readme) | Creates ASCII Art from text. A full implementation of the FIGfont spec. | 1.4.0 | MIT | production | 
- | [inquirer@~7.1.0](https://github.com/SBoudrias/Inquirer.js#readme) | A collection of common interactive command line user interfaces. | 7.1.0 | MIT | production | 
+ | [chalk@^4.0.0](https://github.com/chalk/chalk#readme) | Terminal string styling done right | 4.0.0 | MIT | production |
+ | [commander@^5.1.0](https://github.com/tj/commander.js#readme) | the complete solution for node.js command-line programs | 5.1.0 | MIT | production |
+ | [figlet@^1.3.0](https://github.com/patorjk/figlet.js#readme) | Creates ASCII Art from text. A full implementation of the FIGfont spec. | 1.4.0 | MIT | production |
+ | [inquirer@~7.1.0](https://github.com/SBoudrias/Inquirer.js#readme) | A collection of common interactive command line user interfaces. | 7.1.0 | MIT | production |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Show your support
