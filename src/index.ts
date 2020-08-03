@@ -21,6 +21,7 @@ Cli.checkVersion()
       commander.help();
     }
 
+
     new Cli(commander).run();
   })
 
