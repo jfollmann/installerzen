@@ -1,7 +1,7 @@
 # Welcome to installerzen CLI 👑
 
 <!-- AUTO-GENERATED-CONTENT:START (versionBadge:color=blue) -->
-[![npm](https://img.shields.io/badge/npm-v1.0.16-blue.svg)](https://www.npmjs.com/package/installerzen)
+[![npm](https://img.shields.io/badge/npm-v1.0.17-blue.svg)](https://www.npmjs.com/package/installerzen)
 <!-- AUTO-GENERATED-CONTENT:END -->
 ![CI](https://github.com/jfollmann/installerzen/workflows/CI/badge.svg)
 
@@ -41,7 +41,7 @@ Options:
   -h, --help                      display help for command
 ```
 ## CLI in action
-![Use](http://jfollmann.com/installerzen/handson.gif)
+![Use](https://github.com/jfollmann/installerzen/blob/main/docs/installerzen-demo.gif?raw=true)
 
 ## Supported apps (by now)
 <!-- AUTO-GENERATED-CONTENT:START (dirTree:dir=./src/apps/sh&depth=1) -->
@@ -117,10 +117,10 @@ If your programs are not supported, it would be great if you sent me a pull requ
 <!-- AUTO-GENERATED-CONTENT:START (dependencyTable:dev=false&production=true) -->
 | **Dependency** | **Description** | **Version** | **License** | **Type** |
 | -------------- | --------------- | ----------- | ----------- | -------- |
- | [chalk@^4.0.0](https://github.com/chalk/chalk#readme) | Terminal string styling done right | 4.0.0 | MIT | production | 
- | [commander@^5.1.0](https://github.com/tj/commander.js#readme) | the complete solution for node.js command-line programs | 5.1.0 | MIT | production | 
- | [figlet@^1.3.0](https://github.com/patorjk/figlet.js#readme) | Creates ASCII Art from text. A full implementation of the FIGfont spec. | 1.4.0 | MIT | production | 
- | [inquirer@~7.1.0](https://github.com/SBoudrias/Inquirer.js#readme) | A collection of common interactive command line user interfaces. | 7.1.0 | MIT | production | 
+ | [chalk@^4.0.0](https://github.com/chalk/chalk) | Terminal string styling done right | 4.1.2 | MIT | production | 
+ | [commander@^5.1.0](https://github.com/tj/commander.js) | the complete solution for node.js command-line programs | 5.1.0 | MIT | production | 
+ | [figlet@^1.3.0](https://github.com/patorjk/figlet.js) | Creates ASCII Art from text. A full implementation of the FIGfont spec. | 1.5.2 | MIT | production | 
+ | [inquirer@~7.1.0](https://github.com/SBoudrias/Inquirer.js) | A collection of common interactive command line user interfaces. | 7.1.0 | MIT | production | 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Show your support
